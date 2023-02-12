@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(pink,lavender,yellow);
+}
+#family_img{
+    width:25%;
+    height: 60%;
+}
+button{
+    font-size:25px;
+    background-color:bisque;
+    border-radius:20%;
+    color:black;
+}
+h1{
+    font-size:  25px;
+    color: blue;
+   text-decoration: underline;
+}
+h3{
+    font-size: 25px;
+    color:purple;
+    font-weight: bold;
+    text-decoration: underline
+    }
+h4{
+    font-size: 30px;
+}
+
+    p{
+        font-size: 30px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-style: italic;
+    }
+
+ .clm{
+   padding: 3px;
+   float: left;
+   width: 33.33%;
+ }   
+
+ .h1{
+    font-size: xx-large;
+ }
+
+ .
+
+    
